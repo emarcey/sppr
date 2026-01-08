@@ -79,6 +79,7 @@ THEN WE CAN RENDER A MAP OF THE WORLD TO SHOW REGIONAL SOUPS
 * ingredient_id
 * quantity (numeric)
 * unit (string or enum)
+ * need to be able to have multiple quantity/unit for X cups vs Y grams
 * addtl_notes
 * substitution_notes
 * ingredients that are optional or "serve with"
