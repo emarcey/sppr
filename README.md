@@ -20,6 +20,7 @@
 * Data store
   * postgres instance
   * Opensearch indexes
+    * alternately use ts_vector w/ gin index in Postgres 
 * FE and BE frameworks
   * golang api
 * Hosting
