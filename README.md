@@ -10,6 +10,7 @@
   * ingredients I don't want to use
   * ingredients we assume you have
 * Oh and also I want to do a soup builder part where you're like I want to start with a broth base and I want something with rice and I want it to have chicken
+* build a shopping list 
 
 
 ## Arch decisions
@@ -70,6 +71,7 @@ THEN WE CAN RENDER A MAP OF THE WORLD TO SHOW REGIONAL SOUPS
 
 * name
 * category (another bridge table?)
+* ability to flag for specialty 
 
 #### Ingredients to recipe
 
@@ -79,6 +81,7 @@ THEN WE CAN RENDER A MAP OF THE WORLD TO SHOW REGIONAL SOUPS
 * unit (string or enum)
 * addtl_notes
 * substitution_notes
+* ingredients that are optional or "serve with"
 
 
 ### Tags
