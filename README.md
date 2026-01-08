@@ -15,8 +15,15 @@
 ## Arch decisions
 
 * Data store
+ * postgres instance
+ * Opensearch indexes
 * FE/BE frameworks
+ * golang api
 * Hosting
+
+* API layer
+* Index/ingestion layer
+* Authentication/Accounts
 
 ## Data Structure Thoughts
 
