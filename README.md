@@ -2,10 +2,13 @@
 
 ## Key Endpoints
 
+* ingredient autocompklete
 * Find me recipes with X criteria
   * cook time (maybe just a sort to start)
   * ingredients I have
     * match by as few ingredients I don't have
+  * ingredients I don't want to use
+  * ingredients we assume you have
 
 ## Arch decisions
 
@@ -38,6 +41,9 @@ Bridge tables to:
 
 ### Ingredients
 
+* name
+* category (another bridge table?)
+
 #### Ingredients to recipe
 
 * soup_id
@@ -50,4 +56,10 @@ Bridge tables to:
 
 ### Tags
 
-Something to flag recipes/ingredients as vegan, vegetarian, gluten, dairy, alcohol, etc
+Something to flag recipes/ingredients as vegan, vegetarian, gluten, dairy, alcohol, various allergens, etc
+
+### Accounts
+
+so you can define your "I have this already" ingredients
+
+
