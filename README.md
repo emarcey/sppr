@@ -37,6 +37,7 @@
 
 * framework
   * React, Preact, or SolidJS
+  * or render on backend with https://htmx.org/
 * FE vs BE rendered
 * can't be a static site bc it needs to fetch recipes
 
