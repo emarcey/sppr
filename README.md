@@ -15,10 +15,10 @@
 ## Arch decisions
 
 * Data store
- * postgres instance
- * Opensearch indexes
+  * postgres instance (?)
+  * Opensearch indexes
 * FE/BE frameworks
- * golang api
+  * golang api
 * Hosting
 
 * API layer
