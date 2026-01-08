@@ -1,5 +1,11 @@
 # sppr
 
+## Arch decisions
+
+* Data store
+* FE/BE frameworks
+* Hosting
+
 ## Data Structure Thoughts
 
 ### Recipe
