@@ -15,6 +15,9 @@
 
 ## Data Structure Thoughts
 
+This could also work as a NoSQL database that's just recipes
+Ooooh it could be an Elasticsearch instance to let us practice our search work
+
 ### Recipe
 
 * name
