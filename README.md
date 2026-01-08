@@ -48,6 +48,12 @@ Bridge tables to:
 
 ### Equipment
 
+### Style(s)
+
+### Region(s)
+
+THEN WE CAN RENDER A MAP OF THE WORLD TO SHOW REGIONAL SOUPS
+
 ### Ingredients
 
 * name
@@ -65,6 +71,7 @@ Bridge tables to:
 
 ### Tags
 
+Want to tag soup styles & regions (chowder, 
 Something to flag recipes/ingredients as vegan, vegetarian, gluten, dairy, alcohol, various allergens, etc
 
 ### Accounts
