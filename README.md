@@ -36,6 +36,7 @@
 ### FE design
 
 * framework
+  * React, Preact, or SolidJS
 * FE vs BE rendered
 * can't be a static site bc it needs to fetch recipes
 
