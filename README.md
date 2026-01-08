@@ -9,6 +9,8 @@
     * match by as few ingredients I don't have
   * ingredients I don't want to use
   * ingredients we assume you have
+* Oh and also I want to do a soup builder part where you're like I want to start with a broth base and I want something with rice and I want it to have chicken
+
 
 ## Arch decisions
 
