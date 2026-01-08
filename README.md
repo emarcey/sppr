@@ -14,16 +14,28 @@
 
 ## Arch decisions
 
+### Infrastructure
+
 * Data store
-  * postgres instance (?)
+  * postgres instance
   * Opensearch indexes
-* FE/BE frameworks
+* FE and BE frameworks
   * golang api
 * Hosting
+
+  
+### BE design
 
 * API layer
 * Index/ingestion layer
 * Authentication/Accounts
+
+
+### FE design
+
+* framework
+* FE vs BE rendered
+* can't be a static site bc it needs to fetch recipes
 
 ## Data Structure Thoughts
 
