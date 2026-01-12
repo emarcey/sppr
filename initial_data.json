@@ -53,11 +53,11 @@
         "instructions": "diced"
       },
       {
-        "name": "garlic, cloves",
+        "name": "garlic",
         "quantity": [
           {
             "amount": 3,
-            "unit": "ct"
+            "unit": "clove"
           }
         ],
         "instructions": "minced"
@@ -94,7 +94,7 @@
         "quantity": [
           {
             "amount": 4,
-            "unit": "cups"
+            "unit": "cup"
           }
         ]
       },
@@ -176,7 +176,7 @@
     ],
     "cook_time_mins": 35,
     "prep_time_mins": 15,
-    "equipment": ["grater", "pot"],
+    "equipment": ["grater", "pot", "knife"],
     "steps": [
       "Blend mozzarella, parmesan, and ricotta in bowl and set aside",
       "In a large pot over medium-low, sautee beef until lightly browned and no pink remains. Remove from pot and set aside.",
@@ -191,6 +191,243 @@
       "Test for noodle texture & soup seasoning. Cook longer/adjust seasoning as necessary."
     ],
     "serving": "Serve hot with a dollop of cheese blend and loaf of farmer's bread",
-    "tags": ["hearty", "one-pot", "quick"]
+    "tags": ["hearty", "one-pot", "quick"],
+    "regions": ["U.S.A."]
+  },
+  {
+    "name": "avgolemono",
+    "description": "a light Greek classic with a hint of lemon and dill. Perfect for sick days",
+    "ingredients": [
+      {
+        "name": "orzo",
+        "quantity": [
+          {
+            "amount": 0.5,
+            "unit": "cup"
+          }
+        ],
+        "instructions": "uncooked"
+      },
+      {
+        "name": "shallot",
+        "quantity": [
+          {
+            "amount": 1,
+            "unit": "ct"
+          }
+        ],
+        "instructions": "finely chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": [
+          {
+            "amount": 0.5,
+            "unit": "tsp"
+          }
+        ]
+      },
+      {
+        "name": "pepper, black",
+        "quantity": [
+          {
+            "amount": 0.5,
+            "unit": "tsp"
+          }
+        ]
+      },
+      {
+        "name": "garlic",
+        "quantity": [
+          {
+            "amount": 2,
+            "unit": "clove"
+          }
+        ],
+        "instructions": "minced"
+      },
+      {
+        "name": "chicken",
+        "quantity": [
+          {
+            "amount": 3,
+            "unit": "cup"
+          }
+        ],
+        "instructions": "cooked, shredded"
+      },
+      {
+        "name": "egg",
+        "quantity": [
+          {
+            "amount": 1,
+            "unit": "ct"
+          }
+        ],
+        "instructions": "at room temp"
+      },
+      {
+        "name": "juice, lemon",
+        "quantity": [
+          {
+            "amount": 2,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      {
+        "name": "dill",
+        "quantity": [
+          {
+            "amount": 2,
+            "unit": "tbsp"
+          }
+        ],
+        "instructions": "fresh, chopped"
+      },
+      {
+        "name": "oil, olive",
+        "quantity": [
+          {
+            "amount": 1,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      {
+        "name": "stock, chicken",
+        "quantity": [
+          {
+            "amount": 4,
+            "unit": "cup"
+          }
+        ]
+      }
+    ],
+    "cook_time_mins": 30,
+    "prep_time_mins": 10,
+    "equipment": ["whisk", "pot", "knife"],
+    "instructions": [
+      "Cook orzo and drain",
+      "Heat olive oil in large pot on medium",
+      "Add shallot, garlic, salt, pepper. Cook ~5 minutes, stirring frequently, shallot is transluscent",
+      "Add stock and chicken. Bring to boil and simmer 10 minutes",
+      "Whisk egg and lemon juice in small bowl",
+      "While whisking, add 1 cup soup from pot and blend. Add mixture to pot.",
+      "Add orzo and dill. Stir to combine. Adjust seasoning as needed."
+    ],
+    "tags": ["light", "quick"],
+    "regions": ["Greece"]
+  },
+  {
+    "title": "carrot and ginger soup",
+    "description": "zesty zesty zesty",
+    "ingredients": [
+      {
+        "name": "butter, unsalted",
+        "quantity": [
+          {
+            "amount": 6,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      {
+        "name": "onion, yellow",
+        "quantity": [
+          {
+            "amount": 1,
+            "unit": "ct"
+          }
+        ],
+        "instructions": "chopped"
+      },
+      {
+        "name": "garlic",
+        "quantity": [
+          {
+            "amount": 3,
+            "unit": "clove"
+          }
+        ],
+        "instructions": "minced"
+      },
+      {
+        "name": "wine, white",
+        "quantity": [
+          {
+            "amount": 1,
+            "unit": "cup"
+          }
+        ]
+      },
+      {
+        "name": "carrot",
+        "quantity": [
+          {
+            "amount": 1.5,
+            "quantity": "lb"
+          }
+        ],
+        "instructions": "peeled, cut into 0.5 inch pieces"
+      },
+      {
+        "name": "juice, lemon",
+        "quantity": [
+          {
+            "amount": 2,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      {
+        "name": "curry powder",
+        "quantity": [
+          {
+            "amount": 0.125,
+            "unit": "tsp"
+          }
+        ]
+      },
+      {
+        "name": "salt",
+        "quantity": [
+          {
+            "amount": "to taste"
+          }
+        ]
+      },
+      {
+        "name": "pepper",
+        "quantity": [
+          {
+            "amount": "to taste"
+          }
+        ]
+      },
+      {
+        "name": "ginger, fresh",
+        "quantity": [
+          {
+            "amount": 0.25,
+            "quantity": "cup"
+          }
+        ],
+        "instructions": "finely chopped"
+      }
+    ],
+    "prep_time_mins": 15,
+    "cook_time_mins": 75,
+    "equipment": ["pot", "knife", "blender"],
+    "steps": [
+      "Melt butter in large stock pot over medium heat.",
+      "Add onion, ginger, and garlic. Sautee for 15-20 minutes",
+      "Add stock, wine, and carrots. Bring to a boil.",
+      "Reduce heat to low and simmer uncovered until the carrots are very tender, ~45 minutes",
+      "Puree the soup. Season with lemon juice, curry powder, salt and pepper to taste"
+    ],
+    "serving": "sprinkle with chives or parsley. Serve hot or cold.",
+    "tags": ["puree"],
+    "regions": ["U.S.A."]
   }
 ]
