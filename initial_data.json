@@ -1,0 +1,196 @@
+[
+  {
+    "title": "lasagna soup",
+    "description": "a quick and easy lasagna, now in soup form!",
+    "ingredients": [
+      {
+        "name": "ground beef",
+        "quantity": [
+          {
+            "amount": 6,
+            "unit": "oz"
+          }
+        ]
+      },
+      {
+        "name": "noodles, lasagna",
+        "quantity": [
+          {
+            "amount": 8,
+            "unit": "oz"
+          }
+        ],
+        "instructions": "uncooked, chopped into 1-2 inch pieces"
+      },
+      {
+        "name": "onion, yellow",
+        "quantity": [
+          {
+            "amount": 1,
+            "unit": "ct"
+          }
+        ],
+        "instructions": "diced"
+      },
+      {
+        "name": "carrot",
+        "quantity": [
+          {
+            "amount": 1,
+            "unit": "ct"
+          }
+        ],
+        "instructions": "peeled and diced"
+      },
+      {
+        "name": "zucchini",
+        "quantity": [
+          {
+            "amount": 1,
+            "unit": "ct"
+          }
+        ],
+        "instructions": "diced"
+      },
+      {
+        "name": "garlic, cloves",
+        "quantity": [
+          {
+            "amount": 3,
+            "unit": "ct"
+          }
+        ],
+        "instructions": "minced"
+      },
+      {
+        "name": "herbes de provence",
+        "quantity": [
+          {
+            "amount": 2,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      {
+        "name": "oil, olive",
+        "quantity": [
+          {
+            "amount": 2,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      {
+        "name": "tomato paste",
+        "quantity": [
+          {
+            "amount": 2,
+            "unit": "tbsp"
+          }
+        ]
+      },
+      {
+        "name": "stock, vegetable",
+        "quantity": [
+          {
+            "amount": 4,
+            "unit": "cups"
+          }
+        ]
+      },
+      {
+        "name": "crushed tomatoes",
+        "quantity": [
+          {
+            "amount": 28,
+            "unit": "oz"
+          }
+        ]
+      },
+      {
+        "name": "salt",
+        "quantity": [
+          {
+            "amount": 0.75,
+            "unit": "tsp"
+          }
+        ]
+      },
+      {
+        "name": "pepper, black",
+        "quantity": [
+          {
+            "amount": 0.5,
+            "unit": "tsp"
+          }
+        ]
+      },
+      {
+        "name": "red pepper flakes",
+        "quantity": [
+          {
+            "amount": 0.5,
+            "unit": "tsp"
+          }
+        ]
+      },
+      {
+        "name": "spinach",
+        "quantity": [
+          {
+            "amount": 8,
+            "unit": "oz"
+          }
+        ],
+        "instructions": "chopped"
+      },
+      {
+        "name": "mozzarella, fresh",
+        "quantity": [
+          {
+            "amount": 4,
+            "unit": "oz"
+          }
+        ],
+        "instructions": "shredded"
+      },
+      {
+        "name": "ricotta",
+        "quantity": [
+          {
+            "amount": 4,
+            "unit": "oz"
+          }
+        ]
+      },
+      {
+        "name": "parmesan",
+        "quantity": [
+          {
+            "amount": 4,
+            "unit": "oz"
+          }
+        ],
+        "instructions": "grated"
+      }
+    ],
+    "cook_time_mins": 35,
+    "prep_time_mins": 15,
+    "equipment": ["grater", "pot"],
+    "steps": [
+      "Blend mozzarella, parmesan, and ricotta in bowl and set aside",
+      "In a large pot over medium-low, sautee beef until lightly browned and no pink remains. Remove from pot and set aside.",
+      "Heat oil in pot over medium.",
+      "Add carrots and onion. Cook, stirring frequently, until onion is gold (~5 minutes)",
+      "Add garlic. Cook until fragrant, stirring frequently (~2 minutes)",
+      "Add tomato paste. Combine and cook, stirring constantly, ~2 minutes",
+      "Add canned tomatoes, stock, herbs, salt, pepper, red pepper",
+      "Bring to boil over high",
+      "Reduce heat to medium-low, maintaining low boil. Add noodles and zucchini. Cook 5 minutes",
+      "Add beef and spinach. Cook 5 minutes.",
+      "Test for noodle texture & soup seasoning. Cook longer/adjust seasoning as necessary."
+    ],
+    "serving": "Serve hot with a dollop of cheese blend and loaf of farmer's bread",
+    "tags": ["hearty", "one-pot", "quick"]
+  }
+]
